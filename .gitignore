@@ -119,3 +119,9 @@ venv.bak/
 
 # PyCharm
 .idea
+
+dataset/
+Contoh_Credit_Score/
+Contoh_Lin_Reg/
+preassesment.ipynb
+Untitled.ipynb
